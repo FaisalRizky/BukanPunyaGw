@@ -1,0 +1,51 @@
+body{
+	background: black;
+}
+h1{
+	text-align: center;
+	font-family: sans-serif;
+	font-weight: 300;
+	color: black;
+}
+ 
+.tombol{
+	padding: 8px 15px;
+	border-radius: 3px;
+	background: #ECF0F1;
+	border: none;
+	color: #232323;
+	font-size: 12pt;
+}
+ 
+.kotak{
+	margin: 150px auto;
+	background: white;
+	width: 900px;	
+	padding: 40px 50px 50px 50px;
+	border-radius: 3px;
+	color: black;
+	
+}
+.wrap {
+
+	background-color: black;
+	background-size: cover;
+	background-attachment: fixed; 
+	background-position: center;
+	background-repeat: no-repeat;
+	font-family: Sofia;
+	color: white;
+    box-sizing: border-box;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+	 margin: 0 auto;
+    min-height: 100%; /* menyesuaikan dengan tinggi layar*/
+    height:auto;
+}

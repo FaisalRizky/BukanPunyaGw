@@ -1,0 +1,38 @@
+.styling a:link{
+	color:blue;
+	opacity:0.7
+}
+.styling a:visited{
+	color:blue;
+}
+.styling a:hover{
+	color:blue;
+	opacity:1.0;
+}
+.stylings a:link{
+	color:white;
+	opacity:0.7
+}
+.stylings a:visited{
+	color:white;
+}
+.stylings a:hover{
+	color:white;
+	opacity:1.0;
+}
+div#table_id_length {
+    color: white;
+}
+
+div#table_id_filter {
+    color: white;
+}
+div#table_id_info{
+	color:white;
+}
+div#table_id_paginate{
+	color:white;
+}
+input[type="search"] {
+    color: black;
+}
